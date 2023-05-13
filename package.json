@@ -1,0 +1,17 @@
+{
+  "name": "spacetraders",
+  "version": "0.0.1",
+  "description": "Space Traders application and frontend to play the game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "react"
+  ],
+  "author": "whitlocktech",
+  "license": "ISC",
+  "dependencies": {
+  }
+}
